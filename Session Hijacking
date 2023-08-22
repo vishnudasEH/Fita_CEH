@@ -11,7 +11,7 @@
 **The Session Hijacking attack compromises the session token by stealing or predicting a valid session token to gain unauthorized access to the Web Server.**
 
 <p align="center">
-<img width="70%" src="https://dpsvdv74uwwos.cloudfront.net/statics/img/blogposts/illustration-of-session-hijacking-using-xss.png" />
+  <img width="70%" src="https://dpsvdv74uwwos.cloudfront.net/statics/img/blogposts/illustration-of-session-hijacking-using-xss.png" alt="Illustration of Session Hijacking using XSS" />
 </p>
 <p align="center">
   <small>Session Hijacking using XSS</small>
