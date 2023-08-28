@@ -7,7 +7,7 @@
 **Intrusion Detection System (IDS)** - PASSIVE monitoring of activity looking for anomalies and alerting/notifying when they are found.
 
 <p align="center">
-<img width="75%" src="https://3th2q02cq5up44zpe81rwase-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/Intrusion-Detection-IDS-VS-Intrusion-Prevention-IPS-What%E2%80%99s-The-Difference.png" />
+<img width="100%" src="https://cdn.ttgtmedia.com/rms/onlineImages/security-ids_vs_ips-f.png" />
 </p>
 
 ### **Deployment Types - HIDS & NIDS & WIDS:**
