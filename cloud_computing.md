@@ -142,3 +142,13 @@
 
 - **PCI DSS**: Deals with debit and credit cards, but also has a cloud SIG
 
+## tools
+- trivy
+- clair
+- dadga
+- spyse (to enumerate S3 buckets)
+- s3scanners
+- GCPBucketBrute (for escalate privileges on google buckets)
+- AWS pwn
+- Scout Suite
+
